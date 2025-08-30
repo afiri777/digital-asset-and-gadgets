@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="ja"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>テック × クリプト はじめてガイド</title>
+<meta name="description" content="PCガジェットとクリプトの入門ガイド。失敗しない買い方・安全な運用をわかりやすく解説。">
+<style>
+body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif;line-height:1.7;margin:0;background:#fafafa;color:#111}
+header{background:#111;color:#fff;padding:14px 16px} header a{color:#fff;text-decoration:none}
+main{max-width:940px;margin:24px auto;padding:0 16px 64px;background:#fff;box-shadow:0 6px 16px rgba(0,0,0,.05);border-radius:12px}
+h1{font-size:28px;margin:0 0 10px} h2{font-size:20px;margin:18px 0 8px}
+.card{border:1px solid #eee;border-radius:12px;padding:16px;margin:12px 0}
+.btn{display:inline-block;padding:10px 14px;border-radius:10px;background:#111;color:#fff;text-decoration:none}
+.btn.amz{background:#ff9900;color:#111} .btn.secondary{background:#2d6cdf}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+small.muted{color:#666}
+nav ul{display:flex;gap:12px;list-style:none;margin:0;padding:0}
+</style></head><body>
+<header>
+  <div style="max-width:940px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:12px;">
+    <a href="./index.html"><strong>テック × クリプト はじめてガイド</strong></a>
+    <nav><ul>
+      <li><a href="./macbook.html">MacBook</a></li>
+      <li><a href="./ssd.html">外付けSSD</a></li>
+      <li><a href="./hub.html">USB-Cハブ</a></li>
+      <li><a href="./ledger.html">Ledger</a></li>
+    </ul></nav>
+  </div>
+</header>
+<main>
+  <h1>最短で“収益化”スタート</h1>
+  <p>ショッピング（成約率◎）＋ 公式アフィ（単価◎）＋ 自作テンプレ（利益◎）の3本柱で運用します。</p>
+
+  <div class="grid">
+    <div class="card">
+      <h2>① ショッピングで小さく積み上げ</h2>
+      <p><a id="amz-mac" class="btn amz" target="_blank" href="#">MacBookを見る</a></p>
+      <p><a id="amz-ssd" class="btn amz" target="_blank" href="#">外付けSSDを見る</a></p>
+    </div>
+    <div class="card">
+      <h2>② 高単価は公式アフィで</h2>
+      <p><a id="of-ledger" class="btn secondary" target="_blank" href="#">Ledger公式で確認</a></p>
+      <p><a id="of-binance" class="btn secondary" target="_blank" href="#">海外取引所（Binance）</a></p>
+    </div>
+    <div class="card">
+      <h2>③ 自作テンプレを即販売</h2>
+      <p><a id="prod-sim" class="btn" target="_blank" href="#">複利シミュレーターをDL</a></p>
+      <p><a id="prod-check" class="btn" target="_blank" href="#">初期設定チェックリスト（PDF）</a></p>
+    </div>
+  </div>
+
+  <h2>人気記事</h2>
+  <ul>
+    <li><a href="./macbook.html">MacBook購入ガイド：失敗しない型番と最安ルート</a></li>
+    <li><a href="./ssd.html">外付けSSDの選び方（動画編集/ゲーム/バックアップ）</a></li>
+    <li><a href="./hub.html">USB-Cハブ完全ガイド：足りない端子を一発解決</a></li>
+    <li><a href="./ledger.html">Ledger Nano Xの安全な初期設定</a></li>
+  </ul>
+
+  <p><small class="muted">※当サイトのリンクにはアフィリエイトを含みます。記載は情報提供であり、投資助言ではありません。</small></p>
+</main>
+
+<script src="./links.js"></script>
+<script>
+function link(id,key){var a=document.getElementById(id); if(a&&window.AFFILIATE_LINKS&&window.AFFILIATE_LINKS[key]) a.href=window.AFFILIATE_LINKS[key];}
+link("amz-mac","macbook"); link("amz-ssd","ssd");
+link("of-ledger","ledger_official"); link("of-binance","exchange_binance");
+link("prod-sim","product_simulator"); link("prod-check","product_checklist");
+</script>
+</body></html>
