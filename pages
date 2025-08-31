@@ -1,1 +1,53 @@
+<!doctype html><html lang="ja"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ledger Nano X 徹底レビュー</title>
+<link rel="stylesheet" href="/styles.css">
+<script defer src="/js/amazon-tag.js"></script>
+<script defer src="/js/external-guard.js"></script>
+</head><body>
+<header><div class="wrap">
+  <strong>静かに積み上げる</strong><span class="badge">PR/広告</span>
+  <nav style="margin-top:8px">
+    <a href="/">Home</a>
+    <a href="/pages/ledger-nano-x-review.html">Ledgerレビュー</a>
+    <a href="/pages/macbook-crypto-setup.html">Mac×暗号資産</a>
+    <a href="/pages/xrp-xumm-guide.html">XRP基礎</a>
+    <a href="/pages/recommendations.html">おすすめ</a>
+  </nav>
+</div></header>
+<main><div class="wrap">
+<div class="breadcrumbs">Home › Ledgerレビュー</div>
+<h1>Ledger Nano X 徹底レビュー（初心者～中級向け）</h1>
+<p class="small">PR/広告：本ページにはアフィリエイトリンクが含まれます。</p>
+
+<div class="notice"><strong>結論：</strong>最初の1台に最適。最大の失敗は回復フレーズの管理ミス。紙/金属で物理的に分離して保管。</div>
+
+<h2>おすすめする人</h2>
+<ul>
+  <li>取引所保管から卒業したい人</li>
+  <li>5万円以上を長期保有する人</li>
+</ul>
+
+<h2>安全に始める手順（要点）</h2>
+<ol>
+  <li>公式で購入 → 開封 → 初期化（PIN/回復フレーズ）</li>
+  <li>回復フレーズはオフラインで2重保管（撮影/デジタル保存NG）</li>
+  <li>少額テスト送金 → 着金確認 → 段階的に移管</li>
+</ol>
+
+<h2>公式リンク</h2>
+<p><a href="https://shop.ledger.com/?r=90c52f1a315e">Ledger公式ストア（正規品推奨）</a></p>
+
+<h2>次に読む</h2>
+<ul>
+  <li><a href="/pages/macbook-crypto-setup.html">Macで安全な暗号資産環境を作る</a></li>
+  <li><a href="/pages/xrp-xumm-guide.html">XRPウォレット運用の基礎</a></li>
+</ul>
+</div></main>
+<footer><div class="wrap"><div class="links">
+  <a href="/disclosure.html">運営ポリシー（PR表記）</a>
+  <a href="/privacy.html">プライバシー</a>
+  <a href="/sitemap.html">サイトマップ</a>
+</div><p class="small">© 静かに積み上げる</p></div></footer>
+</body></html>
 
